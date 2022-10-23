@@ -6,6 +6,7 @@ Bu repo Kodluyoruz Frond-End eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ```
 git clone https://github.com/abdusselm/kodluyoruzilkrepo.git
+
 ```
 
 ## Usage
